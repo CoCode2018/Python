@@ -1,0 +1,5 @@
+print("FFFFFFF%2sU%5sU%2sNN%4sNN" % (' ', ' ', ' ', ' '))
+print("FF%7sU%5sU%2sNNN%3sNN" % (' ', ' ', ' ', ' '))
+print("F" * 7 + "%2sU%5sU%2sNN%sN%2sNN" % (' ', ' ', ' ', ' ', ' '))
+print("FF%8sU%3sU%3sNN%2sN%sNN" % (' ', ' ', ' ', ' ', ' '))
+print("FF%9sUUU%4sNN%3sNNN" % (' ', ' ', ' '))

@@ -32,6 +32,11 @@ print(type(1))
 print(type(1.1))
 print(type(1 + 1j))
 print(type(True))
+
+print(5/2)
+print(5//2)
+print(5.0//2)
+print(-5.0//2)
 # 布尔类型
 a = 1 > 2
 print(a)

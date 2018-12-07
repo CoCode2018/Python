@@ -36,4 +36,14 @@ Day4---列表
 
 ========================查
 
+# 内置函数
+    len()
+    sorted()
+# 序列公共方法
+    sort()      正向排序
+    sort(reverse = True)    反向排序
+    reverse()   翻转
+    count()
+    index()
+
 """

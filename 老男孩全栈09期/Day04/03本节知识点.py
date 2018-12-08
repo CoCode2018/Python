@@ -39,7 +39,20 @@ Day4---列表
     索引查询
     切片查询
 
+<<<<<<< HEAD
 内置方法：
     len()
     
+=======
+# 内置函数
+    len()
+    sorted()
+# 序列公共方法
+    sort()      正向排序
+    sort(reverse = True)    反向排序
+    reverse()   翻转
+    count()
+    index()
+
+>>>>>>> 2f7d89738c9213a69d75b2a30200b429eeb805f1
 """
